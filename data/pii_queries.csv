@@ -1,0 +1,20 @@
+text,label,pii_type,pii_value
+Mera Aadhaar 2345 6789 0123 verify karna hai,verify_my_identity,AADHAAR,2345 6789 0123
+PAN ABCDE1234F se KYC verify nahi ho raha,unable_to_verify_identity,PAN,ABCDE1234F
+Mera UPI rahul.sharma@okaxis pe top up fail ho gaya,top_up_failed,UPI,rahul.sharma@okaxis
+Mere account 123456789012 mein transfer pending hai,pending_transfer,ACCOUNT,123456789012
+Mera number +91 9876543210 par OTP nahi aaya,verify_my_identity,PHONE,+91 9876543210
+IFSC SBIN0001234 wali branch se transfer fail hua,failed_transfer,IFSC,SBIN0001234
+Test user email test.user@gmail.com se login nahi ho raha,passcode_forgotten,EMAIL,test.user@gmail.com
+Mera PAN ABCDE1234F hai card activate nahi ho raha,activate_my_card,PAN,ABCDE1234F
+Mere account 987654321098 se paise cut hue par transfer nahi hua,transfer_not_received_by_recipient,ACCOUNT,987654321098
+Aadhaar 5566 7788 9900 se card lock karna hai,lost_or_stolen_card,AADHAAR,5566 7788 9900
+UPI ID 9876543210@ybl par refund nahi aaya,request_refund,UPI,9876543210@ybl
+Mera phone 9123456789 par alert nahi aata,unable_to_verify_identity,PHONE,9123456789
+My PAN is ABCDE1234F and I want to change my PIN,change_pin,PAN,ABCDE1234F
+Account number 50100123456789 ka balance update nahi hua,balance_not_updated_after_bank_transfer,ACCOUNT,50100123456789
+Send OTP to 9988776655 for card linking,card_linking,PHONE,9988776655
+Mera email priya.k@yahoo.com hai card activate karo,activate_my_card,EMAIL,priya.k@yahoo.com
+IFSC HDFC0000123 ki branch se paise nahi aaye,balance_not_updated_after_bank_transfer,IFSC,HDFC0000123
+Aadhaar 2345 6789 0123 ke saath cash withdrawal nahi hua,cash_withdrawal_not_recognised,AADHAAR,2345 6789 0123
+Mera card block ho gaya hai kya karu,lost_or_stolen_card,,

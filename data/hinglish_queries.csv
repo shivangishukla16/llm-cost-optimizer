@@ -1,0 +1,63 @@
+text,label
+mera card block ho gaya hai kya karu,lost_or_stolen_card
+mere paise cut ho gaye par transaction fail hua,transaction_charged_twice
+UPI payment fail ho gaya par paise kat gaye,transaction_charged_twice
+mera card kaam nahi kar raha hai,card_not_working
+transfer pending hai kab tak hoga,pending_transfer
+paise transfer ho gaye par recipient ko nahi mile,transfer_not_received_by_recipient
+mera virtual card kaam nahi kar raha,virtual_card_not_working
+card kab tak aayega,card_arrival
+naya card kaise order karun,order_physical_card
+card ka PIN change karna hai,change_pin
+mera PIN block ho gaya hai,pin_blocked
+OTP nahi aa raha verify karne ke liye,why_verify_identity
+identity verify karna kyun zaroori hai,why_verify_identity
+account verify karne ke liye kya chahiye,verify_my_identity
+mera passcode bhool gaya hoon,passcode_forgotten
+app mein login nahi ho raha,passcode_forgotten
+mera phone kho gaya hai aur app kaise use karun,lost_or_stolen_phone
+phone chori ho gaya aur card band karna hai,lost_or_stolen_phone
+ATM se paise nikle nahi par cut gaye,cash_withdrawal_not_recognised
+ATM mein mere card se kuch aur withdraw hua,cash_withdrawal_not_recognised
+cash withdrawal ka charge kitna lagta hai,cash_withdrawal_charge
+ATM se paise nikalne par kitna fees lagega,cash_withdrawal_charge
+exchange rate kya hai aaj ka,exchange_rate
+foreign currency ka charge kitna hai,exchange_charge
+videsh mein payment karne par charge lagta hai kya,exchange_charge
+card ka reward points kaise check karun,card_linking
+mera card app se link karna hai,card_linking
+Apple Pay par card kaise add karun,apple_pay_or_google_pay
+Google Pay mein card add nahi ho raha,apple_pay_or_google_pay
+mera account band karna hai,terminate_account
+account close karna hai kaise karun,terminate_account
+top up limit kitni hai,top_up_limits
+mere card mein paise daalne ki limit kya hai,top_up_limits
+card se top up nahi ho raha,topping_up_by_card
+card se paisa daalna fail ho gaya,topping_up_by_card
+refund abhi tak nahi aaya,request_refund
+mera refund kab aayega,request_refund
+refund ka request kaise karun,request_refund
+transaction cancel karna hai,cancel_transfer
+transfer cancel kar sakte hain kya,cancel_transfer
+mera card expire hone wala hai,card_about_to_expire
+card expiry ke baad kya karun,card_about_to_expire
+disposable card kaise banaun,get_disposable_virtual_card
+virtual card ka limit kya hai,disposable_card_limits
+mere account mein balance update nahi hua,balance_not_updated_after_bank_transfer
+cheque deposit kiya par balance nahi badha,balance_not_updated_after_cheque_or_cash_deposit
+paise bhejne ka transfer fail ho gaya,failed_transfer
+galat account mein paise chale gaye,beneficiary_not_allowed
+bank statement mein extra charge dikh raha hai,extra_charge_on_statement
+transfer ka charge kitna hai,transfer_fee_charged
+card payment ka charge kitna lagta hai,card_payment_fee_charged
+kya ye card India ke bahar chalega,country_support
+kaunse countries mein card chalta hai,country_support
+kaunsi currencies support hoti hain,fiat_currency_support
+mera card decline ho gaya shop par,declined_card_payment
+payment reject ho gaya online shopping mein,declined_card_payment
+mujhe pata chahiye mera kaunsa card support karta hai,supported_cards_and_currencies
+aap kaunse cards accept karte hain,card_acceptance
+mera card kisi aur ne use kiya lagta hai,compromised_card
+mera card hack ho gaya lagta hai,compromised_card
+account mein kaunse docs chahiye KYC ke liye,verify_source_of_funds
+paise kahan se aaye ye batana padega,verify_source_of_funds

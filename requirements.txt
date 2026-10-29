@@ -1,0 +1,9 @@
+anthropic
+datasets
+pandas
+numpy
+matplotlib
+python-dotenv
+fastapi
+uvicorn
+streamlit
